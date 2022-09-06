@@ -1,2 +1,2 @@
-# insurance-config
-insurance config
+# prereg-config
+prereg config
